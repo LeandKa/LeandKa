@@ -6,7 +6,7 @@
 
 
 ### Sobre mim
-Eu sou desenvolvedor FullStack minha principal linguagem e JavaScript porem ja vive experencia em outra linguagens como C# e Php porem o foco mesmo e no Javascript, com frameworks como Nodejs,ReactJs,ReactNative,Typescript,MongoDb,Redux,NextJs e Styles-Components.
+Eu sou desenvolvedor FullStack minha principal linguagem e JavaScript porem ja vive experencia em outra linguagens como C# e Php porém o foco mesmo e no Javascript, com frameworks como Nodejs,ReactJs,ReactNative,Typescript,MongoDb,Redux,NextJs e Styles-Components.
 
 - [Website](https://portfolio-vercel-blue.vercel.app/) 💻 
 
