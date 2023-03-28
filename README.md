@@ -6,7 +6,7 @@
 
 
 ### Sobre mim
-Eu sou desenvolvedor FullStack minha principal linguagem e JavaScript porem ja vive experência em outra linguagens como C# e Php porém o foco mesmo e no Javascript, com frameworks como Nodejs,ReactJs,ReactNative,Typescript,MongoDb,Redux,NextJs e Styles-Components.
+Eu sou desenvolvedor FullStack minha principal linguagem e JavaScript porem ja vive experência em outra linguagens como C# e Php porém o foco mesmo e no Javascript, com frameworks como Nodejs, ReactJs, ReactNative, Typescript, MongoDb, Redux, Vuejs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandKa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
